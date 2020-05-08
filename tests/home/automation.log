@@ -1,0 +1,1150 @@
+05/07/2020 01:50:12 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 01:50:13 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 01:50:13 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 01:50:13 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 01:50:13 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 01:50:13 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 01:50:13 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 01:50:13 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 01:50:13 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:50:13 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:50:13 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:50:13 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:50:13 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:50:14 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:50:14 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:50:14 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:50:14 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:50:14 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:50:14 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:50:14 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:50:14 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 01:50:14 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 01:50:15 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 01:50:15 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 01:50:15 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 01:50:15 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 01:50:16 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 01:50:16 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 01:50:19 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 01:50:19 PM - FilterPanel - INFO: Element found with locator //div[contains(@class,'widget-slider-handle-min')]locatorType: xpath
+05/07/2020 01:50:19 PM - FilterPanel - INFO: Element found with locator //div[contains(@class,'widget-slider-handle-min')]locatorType: xpath
+05/07/2020 01:50:38 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 01:50:39 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 01:50:39 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 01:50:39 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 01:50:39 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 01:50:39 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 01:50:39 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 01:50:39 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 01:50:39 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:50:39 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:50:40 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:50:40 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:50:40 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:50:40 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:50:40 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:50:40 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:50:40 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:50:40 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:50:40 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:50:40 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:50:41 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 01:50:41 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 01:50:42 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 01:50:42 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 01:50:42 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 01:50:42 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 01:50:42 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 01:50:43 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 01:50:45 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 01:50:45 PM - FilterPanel - INFO: Element found with locator f-popular-128locatorType: id
+05/07/2020 01:50:45 PM - FilterPanel - INFO: Clicked on the element with locator: f-popular-128locatorType: id
+05/07/2020 01:50:58 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 01:51:00 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 01:51:00 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 01:51:00 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 01:51:00 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 01:51:00 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 01:51:00 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 01:51:00 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 01:51:00 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:51:01 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:51:01 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:51:01 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:51:01 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:51:01 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:51:01 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:51:02 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:51:02 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:51:02 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:51:02 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:51:02 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:51:02 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 01:51:03 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 01:51:03 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 01:51:03 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 01:51:03 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 01:51:03 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 01:51:04 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 01:51:04 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 01:51:07 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 01:51:07 PM - FilterPanel - INFO: Element found with locator f-namelocatorType: id
+05/07/2020 01:51:07 PM - FilterPanel - INFO: Sent data on the element with locator: f-namelocatorType: id
+05/07/2020 01:51:07 PM - FilterPanel - INFO: Element found with locator f-name-ctalocatorType: id
+05/07/2020 01:51:07 PM - FilterPanel - INFO: Clicked on the element with locator: f-name-ctalocatorType: id
+05/07/2020 01:51:25 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 01:51:27 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 01:51:27 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 01:51:27 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 01:51:27 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 01:51:27 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 01:51:27 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 01:51:27 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 01:51:27 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:51:28 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:51:28 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:51:28 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:51:28 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:51:28 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:51:28 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:51:29 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:51:29 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:51:29 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:51:29 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:51:29 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:51:29 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 01:51:30 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 01:51:30 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 01:51:30 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 01:51:30 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 01:51:30 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 01:51:30 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 01:51:31 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 01:51:33 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 01:54:06 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 01:54:07 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 01:54:07 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 01:54:08 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 01:54:08 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 01:54:08 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 01:54:08 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 01:54:08 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 01:54:08 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:54:08 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:54:08 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:54:08 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:54:08 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:54:08 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:54:08 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:54:08 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:54:08 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:54:08 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:54:09 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:54:09 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:54:09 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 01:54:09 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 01:54:09 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 01:54:09 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 01:54:10 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 01:54:10 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 01:54:10 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 01:54:11 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 01:54:15 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 01:54:15 PM - FilterPanel - INFO: Element found with locator //div[contains(@class,'widget-slider-handle-min')]locatorType: xpath
+05/07/2020 01:54:15 PM - FilterPanel - INFO: Element found with locator //div[contains(@class,'widget-slider-handle-min')]locatorType: xpath
+05/07/2020 01:54:35 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 01:54:37 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 01:54:37 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 01:54:37 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 01:54:37 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 01:54:37 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 01:54:37 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 01:54:38 PM - SeleniumDriver - INFO: Clicked on the element with locator: //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 01:54:38 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:54:38 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:54:39 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:54:39 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:54:39 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:54:39 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:54:39 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:54:39 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:54:39 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:54:39 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:54:39 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:54:40 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:54:40 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 01:54:41 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 01:54:41 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 01:54:41 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 01:54:41 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 01:54:41 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 01:54:41 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 01:54:42 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 01:54:45 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 01:54:45 PM - FilterPanel - INFO: Element found with locator f-popular-128locatorType: id
+05/07/2020 01:54:45 PM - FilterPanel - INFO: Clicked on the element with locator: f-popular-128locatorType: id
+05/07/2020 01:54:54 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 01:54:56 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 01:54:56 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 01:54:56 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 01:54:56 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 01:54:56 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 01:54:56 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 01:54:56 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 01:54:56 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:54:56 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:54:57 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:54:57 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:54:57 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:54:57 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:54:58 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:55:01 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:55:05 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:55:11 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:55:13 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:55:13 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:55:13 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 01:55:14 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 01:55:14 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 01:55:14 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 01:55:15 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 01:55:15 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 01:55:15 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 01:55:16 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 01:55:19 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 01:55:19 PM - FilterPanel - INFO: Element found with locator f-namelocatorType: id
+05/07/2020 01:55:19 PM - FilterPanel - INFO: Sent data on the element with locator: f-namelocatorType: id
+05/07/2020 01:55:19 PM - FilterPanel - INFO: Element found with locator f-name-ctalocatorType: id
+05/07/2020 01:55:19 PM - FilterPanel - INFO: Clicked on the element with locator: f-name-ctalocatorType: id
+05/07/2020 01:55:33 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 01:55:34 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 01:55:34 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 01:55:35 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 01:55:35 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 01:55:35 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 01:55:35 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 01:55:35 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 01:55:35 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:55:35 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:55:35 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:55:35 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:55:35 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:55:35 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 01:55:36 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:55:36 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:55:36 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:55:36 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:55:36 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:55:36 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 01:55:36 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 01:55:37 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 01:55:37 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 01:55:37 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 01:55:38 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 01:55:38 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 01:55:39 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 01:55:39 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 01:55:42 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 04:08:45 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 04:08:46 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 04:08:46 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 04:08:46 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 04:08:46 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 04:08:46 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 04:08:46 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:08:46 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:08:46 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:08:46 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:08:46 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:08:46 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:08:46 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:08:46 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:08:46 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:08:46 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:08:46 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 04:08:47 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 04:08:47 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 04:08:47 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 04:08:56 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 04:08:57 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 04:08:57 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 04:08:57 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 04:08:57 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 04:08:57 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 04:08:57 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:08:57 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:08:57 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:08:57 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:08:57 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:08:57 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:08:57 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:08:58 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:08:58 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:08:58 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:08:58 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 04:09:01 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 04:09:01 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 04:09:01 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 04:09:02 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 04:09:02 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 04:09:02 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 04:09:02 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:09:03 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:09:03 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:09:03 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:09:03 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 04:09:03 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 04:09:03 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 04:09:04 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 04:09:20 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 04:09:21 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 04:09:21 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 04:09:21 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 04:09:21 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:09:21 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:09:22 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:09:22 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:09:22 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:09:22 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:09:22 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:09:22 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:09:22 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:09:22 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:09:22 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:09:22 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:09:22 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 04:09:23 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 04:09:23 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 04:09:24 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 04:09:43 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 04:09:45 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 04:09:45 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 04:09:45 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 04:09:45 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 04:09:45 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 04:09:46 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 04:09:46 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 04:09:46 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:09:46 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:09:46 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:09:47 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:09:48 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:09:52 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:09:54 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:09:56 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:09:56 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:09:56 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:09:56 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:09:56 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:09:56 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 04:09:56 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 04:09:56 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 04:09:56 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 04:09:57 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 04:09:57 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 04:09:57 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 04:10:10 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 04:10:12 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 04:10:12 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 04:10:12 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 04:10:12 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 04:10:12 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 04:10:12 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 04:10:12 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 04:10:12 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:10:12 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:10:12 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:10:13 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:10:13 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:10:13 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:10:13 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:10:13 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:10:13 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:10:13 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:10:13 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:10:13 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:10:13 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 04:10:14 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 04:10:14 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 04:10:14 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 04:10:15 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 04:10:15 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 04:10:15 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 04:10:16 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 04:10:18 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 04:40:55 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 04:40:56 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 04:40:56 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 04:40:57 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 04:40:57 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 04:40:57 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 04:40:57 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 04:40:57 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 04:40:57 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:40:57 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:40:57 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:40:57 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:40:57 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:40:57 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:40:57 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:40:58 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:40:58 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:40:58 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:40:58 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:40:58 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:40:58 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 04:41:01 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 04:41:04 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 04:41:05 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 04:41:05 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 04:41:05 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 04:41:06 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 04:41:06 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 04:41:08 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 04:46:14 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 04:46:17 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 04:46:17 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 04:46:18 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 04:46:18 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 04:46:18 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 04:46:18 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 04:46:18 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 04:46:18 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:46:18 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:46:18 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:46:18 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:46:18 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:46:18 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:46:18 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:46:18 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:46:18 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:46:18 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:46:18 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:46:18 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:46:19 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 04:46:19 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 04:46:19 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 04:46:19 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 04:46:20 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 04:46:20 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 04:46:20 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 04:46:21 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 04:46:24 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 04:47:02 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 04:47:08 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 04:47:08 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 04:47:08 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 04:47:08 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 04:47:08 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 04:47:08 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 04:47:08 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 04:47:08 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:47:09 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:47:09 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:47:09 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:47:09 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:47:09 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:47:09 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:47:10 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:47:10 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:47:10 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:47:10 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:47:14 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:47:16 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 04:47:22 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 04:47:23 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 04:47:23 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 04:47:23 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 04:47:23 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 04:47:24 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 04:47:24 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 04:47:27 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 04:49:19 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 04:49:20 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 04:49:20 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 04:49:21 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 04:49:21 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 04:49:21 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 04:49:21 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 04:49:21 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 04:49:21 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:49:21 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:49:21 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:49:21 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:49:21 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:49:21 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:49:21 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:49:21 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:49:21 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:49:21 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:49:21 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:49:22 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:49:22 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 04:49:22 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 04:49:22 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 04:49:22 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 04:49:23 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 04:49:23 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 04:49:23 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 04:49:24 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 04:49:26 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 04:55:54 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 04:55:56 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 04:55:56 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 04:55:56 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 04:55:56 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 04:55:56 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 04:55:56 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 04:55:56 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 04:55:56 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:55:56 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:55:56 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:55:56 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:55:56 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:55:56 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 04:55:57 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:55:57 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:55:57 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:55:57 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:55:57 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:55:57 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 04:55:57 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 04:55:58 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 04:55:59 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 04:56:00 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 04:56:05 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 04:56:05 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 04:56:05 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 04:56:05 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 04:56:08 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:06:11 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:06:12 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:06:12 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:06:13 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:06:13 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:06:13 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:06:13 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:06:13 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:06:13 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:06:13 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:06:13 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:06:13 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:06:13 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:06:14 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:06:14 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:06:15 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:06:15 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:06:15 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:06:15 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:06:15 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:06:15 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:06:16 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:06:16 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 05:06:16 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 05:06:16 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 05:06:17 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 05:06:18 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 05:06:18 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:06:20 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:08:54 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:08:55 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:08:55 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:08:56 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:08:56 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:08:56 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:08:56 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:08:56 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:08:56 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:08:56 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:08:56 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:08:57 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:08:57 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:08:57 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:08:57 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:08:57 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:08:58 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:08:58 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:08:58 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:08:58 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:08:58 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:08:59 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:08:59 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 05:08:59 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 05:08:59 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 05:09:00 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 05:09:00 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 05:09:00 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:09:02 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:10:12 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:10:14 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:10:14 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:10:15 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:10:15 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:10:16 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:10:17 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:10:17 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:10:17 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:10:18 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:10:18 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:10:19 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:10:19 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:10:19 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:10:19 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:10:20 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:10:20 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:10:21 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:10:21 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:10:21 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:10:21 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:10:22 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:10:22 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 05:10:22 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 05:10:23 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 05:10:23 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 05:10:23 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 05:10:24 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:10:27 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:16:35 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:16:37 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:16:37 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:16:37 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:16:38 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:16:38 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:16:38 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:16:39 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:16:39 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:16:44 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:16:46 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:16:49 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:16:49 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:16:49 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:16:50 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:16:50 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:16:50 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:16:50 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:16:50 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 05:16:50 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 05:16:51 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 05:16:52 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 05:16:52 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 05:16:52 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:16:54 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:16:54 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:16:54 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:16:54 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:16:55 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:16:55 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:16:56 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:17:22 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:17:23 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:17:23 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:17:24 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:17:24 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:17:25 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:17:25 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:17:25 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:17:25 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:17:26 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:17:26 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:17:27 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:17:27 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:17:28 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:17:28 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:17:28 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:17:28 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:17:29 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:17:30 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 05:17:31 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 05:17:31 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 05:17:32 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 05:17:33 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 05:17:34 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:17:34 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:17:34 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:17:34 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:17:34 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:17:35 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:17:35 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:17:36 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:18:07 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:18:26 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:18:26 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:18:26 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:18:26 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:18:27 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:18:28 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:18:28 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:18:28 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:18:28 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:18:29 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:18:29 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:18:29 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:18:30 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:18:30 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:18:30 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:18:30 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:18:31 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:18:31 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:18:31 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:18:53 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:18:56 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:18:56 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:18:57 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:18:57 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:18:58 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:18:58 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:18:58 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:18:58 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:18:58 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:18:58 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:18:58 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:18:59 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:18:59 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:19:00 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:19:01 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:19:01 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:19:01 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:19:01 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:19:02 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:19:02 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:19:03 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:19:03 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 05:19:03 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 05:19:04 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 05:19:04 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 05:19:05 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 05:19:33 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:19:36 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:19:36 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:19:37 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:19:37 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:19:39 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:19:42 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:19:42 PM - SeleniumDriver - INFO: Clicked on the element with locator: //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:19:43 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:19:43 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:19:43 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:19:43 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:19:43 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:19:43 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:19:44 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:19:45 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:19:45 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:19:45 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:19:45 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:19:45 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:19:45 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:19:46 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:19:46 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 05:19:46 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 05:19:46 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 05:19:47 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 05:19:47 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 05:19:47 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:19:51 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:25:01 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:25:03 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:25:03 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:25:03 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:25:03 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:25:03 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:25:03 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:25:03 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:25:03 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:25:03 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:25:04 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:25:04 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:25:04 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:25:04 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:25:04 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:25:05 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:25:05 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:25:05 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:25:05 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:25:05 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:25:05 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:25:06 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:25:06 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 05:25:06 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 05:25:07 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 05:25:07 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 05:25:07 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 05:25:07 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:25:09 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:26:17 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:26:17 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:26:17 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:26:17 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:26:17 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:26:18 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:26:18 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:26:18 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:26:18 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:26:18 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:26:18 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:26:19 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:26:19 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:26:19 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:26:19 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:26:19 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:26:19 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:26:20 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:26:20 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 05:26:20 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 05:26:21 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 05:26:21 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 05:26:21 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 05:26:22 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:26:22 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:26:22 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:26:22 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:26:22 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:26:23 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:26:23 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:26:23 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:26:38 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:26:38 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:26:38 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:26:38 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:26:38 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:26:38 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:26:38 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:26:38 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:26:38 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:26:38 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:26:38 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:26:39 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:26:39 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:26:39 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:26:39 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:26:39 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:26:39 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:26:40 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:26:40 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 05:26:40 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 05:26:40 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 05:26:41 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 05:26:41 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 05:26:41 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:26:42 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:26:42 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:26:42 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:26:42 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:26:43 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:26:43 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:26:44 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:27:03 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:27:05 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:27:05 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:27:05 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:27:05 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:27:05 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:27:05 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:27:05 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:27:06 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:27:06 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:27:06 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:27:06 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:27:06 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:27:06 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:27:06 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:27:06 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:27:06 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:27:07 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:27:08 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:27:08 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:27:23 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:27:25 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:27:25 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:27:25 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:27:25 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:27:26 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:27:26 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:27:26 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:27:26 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:27:26 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:27:26 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:27:26 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:27:26 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:27:26 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:27:28 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:27:28 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:27:28 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:27:28 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:27:28 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:27:28 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:27:28 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:27:29 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:27:29 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 05:27:30 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 05:27:30 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 05:27:31 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 05:27:31 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 05:27:45 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:27:47 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:27:47 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:27:47 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:27:47 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:27:47 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:27:47 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:27:47 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:27:48 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:27:48 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:27:48 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:27:48 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:27:48 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:27:48 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:27:50 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:27:53 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:27:53 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:27:53 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:27:54 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:27:54 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:27:54 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:27:54 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:27:54 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 05:27:54 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 05:27:55 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 05:27:55 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 05:27:55 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 05:27:56 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:27:58 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:31:41 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:31:42 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:31:42 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:31:42 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:31:42 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:31:43 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:31:43 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:31:43 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:31:43 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:31:43 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:31:43 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:31:43 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:31:43 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:31:43 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:31:43 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:31:44 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:31:44 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:31:44 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:31:44 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:31:44 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:31:44 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:31:45 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:31:50 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 05:32:48 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:32:49 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:32:49 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:32:49 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:32:49 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:32:49 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:32:49 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:32:49 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:32:49 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:32:49 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:32:50 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:32:50 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:32:50 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:32:50 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:32:50 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:32:50 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:32:50 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:32:50 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:32:50 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:32:50 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:32:50 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:32:51 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:32:51 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 05:33:32 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:33:33 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:33:34 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:33:34 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:33:34 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:33:34 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:33:34 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:33:34 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:33:34 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:33:34 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:33:34 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:33:34 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:33:34 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:33:35 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:33:35 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:33:35 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:33:35 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:33:35 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:33:35 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:33:35 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:33:35 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:33:36 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:33:39 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 05:33:39 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 05:33:41 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 05:33:41 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 05:33:41 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 05:36:40 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:36:42 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:36:42 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:36:45 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:36:45 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:36:45 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:36:45 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:36:45 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:36:46 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:36:49 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:36:49 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:36:49 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:36:49 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:36:49 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:36:49 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:36:50 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:36:50 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:36:50 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:36:50 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:36:50 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:36:50 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:36:51 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:36:51 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 05:36:51 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 05:36:51 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 05:36:52 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 05:36:52 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 05:38:03 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:38:03 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:38:03 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:38:04 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:38:04 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:38:04 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:38:04 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:38:04 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:38:04 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:38:04 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:38:04 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:38:05 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:38:05 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:38:05 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:38:05 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:38:05 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:38:05 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:38:05 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:38:05 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 05:38:06 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 05:38:06 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 05:38:06 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 05:38:07 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 05:38:07 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:38:07 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:38:07 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:38:07 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:38:07 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:38:08 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:38:08 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:38:08 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:38:23 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:38:23 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:38:23 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:38:23 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:38:23 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:38:24 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:38:24 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:38:24 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:38:24 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:38:24 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:38:24 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:38:24 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:38:24 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:38:25 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:38:25 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:38:25 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:38:25 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:38:25 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:38:25 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 05:38:26 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 05:38:26 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 05:38:26 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 05:38:27 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 05:38:27 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:38:27 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:38:27 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:38:27 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:38:27 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:38:28 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:38:28 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:38:28 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:38:45 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:38:46 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:38:47 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:38:47 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:38:47 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:38:47 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:38:47 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:38:47 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:38:47 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:38:47 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:38:47 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:38:47 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:38:47 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:38:47 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:38:47 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:38:47 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:38:47 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:38:48 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:38:48 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:38:49 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:39:04 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:39:05 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:39:05 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:39:06 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:39:06 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:39:06 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:39:06 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:39:06 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:39:06 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:39:06 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:39:06 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:39:06 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:39:06 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:39:06 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:39:06 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:39:06 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:39:06 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:39:06 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:39:06 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:39:07 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:39:07 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:39:07 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:39:08 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 05:39:08 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 05:39:08 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 05:39:09 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 05:39:09 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 05:39:23 PM - SeleniumDriver - INFO: Element found with locator //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:39:25 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='logo-cont']/alocatorType: xpath
+05/07/2020 05:39:25 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:39:25 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:39:25 PM - SeleniumDriver - INFO: Element found with locator qf-0q-destinationlocatorType: id
+05/07/2020 05:39:25 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-destinationlocatorType: id
+05/07/2020 05:39:25 PM - SeleniumDriver - INFO: Element found with locator //button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:39:25 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element ://button[@class='cta cta-link']locatorType: xpath
+05/07/2020 05:39:25 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:39:25 PM - SeleniumDriver - INFO: FAILED: Cannot click on the element :qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:39:25 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:39:26 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:39:26 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:39:28 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-inlocatorType: id
+05/07/2020 05:39:29 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:39:30 PM - SeleniumDriver - INFO: Clicked on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:39:30 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:39:30 PM - SeleniumDriver - INFO: Cleared the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:39:30 PM - SeleniumDriver - INFO: Element found with locator qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:39:30 PM - SeleniumDriver - INFO: Sent data on the element with locator: qf-0q-localised-check-outlocatorType: id
+05/07/2020 05:39:30 PM - SeleniumDriver - INFO: Element found with locator /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:39:31 PM - SeleniumDriver - INFO: Clicked on the element with locator: /html/body/div[8]/div[4]/buttonlocatorType: xpath
+05/07/2020 05:39:31 PM - SeleniumDriver - INFO: Element found with locator qf-0q-roomslocatorType: id
+05/07/2020 05:39:31 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-adultslocatorType: id
+05/07/2020 05:39:31 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-childrenlocatorType: id
+05/07/2020 05:39:31 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-0-agelocatorType: id
+05/07/2020 05:39:32 PM - SeleniumDriver - INFO: Element found with locator qf-0q-room-0-child-1-agelocatorType: id
+05/07/2020 05:39:32 PM - SeleniumDriver - INFO: Element found with locator //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath
+05/07/2020 05:39:35 PM - SeleniumDriver - INFO: Clicked on the element with locator: //div[@class='widget-query-group widget-query-ft']/buttonlocatorType: xpath

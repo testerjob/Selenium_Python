@@ -1,0 +1,872 @@
+1588884606141	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofilemrqVvT"
+1588884606790	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588884607233	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588884607233	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588884607233	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588884607233	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588884609389	Marionette	INFO	Listening on port 56833
+1588884609479	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588884614780	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588884619380	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1588884619654	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1588884619654	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1588884619959	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1588884625093	Marionette	INFO	Stopped listening on port 56833
+1588884632029	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofilepD9mQe"
+1588884632677	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588884633103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588884633103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588884633103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588884633103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588884635276	Marionette	INFO	Listening on port 57123
+1588884635310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588884641647	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588884650085	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofileOy7wTQ"
+1588884650695	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588884651168	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588884651169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588884651169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588884651169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588884653466	Marionette	INFO	Listening on port 57394
+1588884653486	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588884663169	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588884669808	Marionette	INFO	Stopped listening on port 57394
+1588884675778	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofileYvqsCQ"
+1588884676218	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588884676633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588884676633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588884676633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588884676633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588884678779	Marionette	INFO	Listening on port 57685
+1588884678906	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1588884689925	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588884693608	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1588884693993	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1588884693994	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1588884694287	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1588884697192	Marionette	INFO	Stopped listening on port 57685
+1588884836854	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofileFOLAr4"
+1588884837369	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588884837771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588884837772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588884837772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588884837772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588884839785	Marionette	INFO	Listening on port 58529
+1588884839914	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588884849595	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588884855834	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1588884856105	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1588884856107	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1588884856442	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1588884861529	Marionette	INFO	Stopped listening on port 58529
+1588884867416	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofileSXNc0l"
+1588884868037	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588884868471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588884868471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588884868471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588884868471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588884870572	Marionette	INFO	Listening on port 58844
+1588884870650	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1588884880800	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588884888881	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofiledTa70x"
+1588884889365	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588884889792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588884889792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588884889792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588884889792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588884892289	Marionette	INFO	Listening on port 59168
+1588884892336	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.cdn-hotels.com/uswest2/da/assets/cat/js/63.0.10140/399a02cc-f5daa010-a1a6992e-0f9df215-8dc26fe0-7b8befa9-2e254091-fbece8f7-4e57bb0d-be8b66fc-9c4836e0-2a91d115-9c4fda7d-79c828ba-550e895b-3e161328-b3b8732a-5e603abe-b57e884c-e9be03f1-d8868035-61006acc-7312dc63-1d272e07-644ce464-9294db32-0c7a33b6-fae36503-51371f45-db3f2f46-8cb8577c-87163ae6-57ddcb1d-f685edb0-60111b6a-e8243ba9-86360c33-1e7bd304-f2bc1b38-332d0743-87527386-50252314-d1e63b26-b26a94f4-4449eca4-5b6281d8-3166a241-eb0ac7b2-a69982ed-c7a793c3-cb762176-0b6861c5-96217799-20a8b93a-98e61ffd-0307e8ac-f189e068-16a3e16a-65511728-a44eb598-0d8da874-b40e3e55-7c56453f-59825db5-a8f21a08-ed04484d-7f9eaf31-cade5cf5-a7fa88f4-6078660c-c3282741-fc8f83e2-c6d5adde-a9cd0f25-a40b51f9-d61f8df6-f675e4ad-cc6e9b6c-1be09add-59ab353f-4a05635e-7b7731a7-84b5e7eb-65e870c8-67f03161-7de2c6aa-cff895b6-0141adcc-98fc828d-30ca233e-3e0a17a0-65033c15-29150afe-1921935e-27958a9f-003cdde0-a0bd6564-ef7dc40f-70ba3f6e-55e88fb3-58312cbf-d704b0bd, line 133: TypeError: Must call load() prior to calling next()
+1588884913776	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588884922119	Marionette	INFO	Stopped listening on port 59168
+1588884927270	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofileZYrS6q"
+1588884928018	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588884928496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588884928496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588884928496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588884928497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588884930759	Marionette	INFO	Listening on port 59536
+1588884930828	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.cdn-hotels.com/uswest2/da/assets/cat/js/63.0.10140/399a02cc-f5daa010-a1a6992e-0f9df215-8dc26fe0-7b8befa9-2e254091-fbece8f7-4e57bb0d-be8b66fc-9c4836e0-2a91d115-9c4fda7d-79c828ba-550e895b-3e161328-b3b8732a-5e603abe-b57e884c-e9be03f1-d8868035-61006acc-7312dc63-1d272e07-644ce464-9294db32-0c7a33b6-fae36503-51371f45-db3f2f46-8cb8577c-87163ae6-57ddcb1d-f685edb0-60111b6a-e8243ba9-86360c33-1e7bd304-f2bc1b38-332d0743-87527386-50252314-d1e63b26-b26a94f4-4449eca4-5b6281d8-3166a241-eb0ac7b2-a69982ed-c7a793c3-cb762176-0b6861c5-96217799-20a8b93a-98e61ffd-0307e8ac-f189e068-16a3e16a-65511728-a44eb598-0d8da874-b40e3e55-7c56453f-59825db5-a8f21a08-ed04484d-7f9eaf31-cade5cf5-a7fa88f4-6078660c-c3282741-fc8f83e2-c6d5adde-a9cd0f25-a40b51f9-d61f8df6-f675e4ad-cc6e9b6c-1be09add-59ab353f-4a05635e-7b7731a7-84b5e7eb-65e870c8-67f03161-7de2c6aa-cff895b6-0141adcc-98fc828d-30ca233e-3e0a17a0-65033c15-29150afe-1921935e-27958a9f-003cdde0-a0bd6564-ef7dc40f-70ba3f6e-55e88fb3-58312cbf-d704b0bd, line 133: TypeError: Must call load() prior to calling next()
+1588884937044	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588884942196	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1588884942460	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1588884942463	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1588884942854	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1588884944989	Marionette	INFO	Stopped listening on port 59536
+1588892919583	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofilekaOOiN"
+1588892920297	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588892920740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588892920740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588892920740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588892920740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588892923136	Marionette	INFO	Listening on port 50120
+1588892923214	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588892927433	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588892929015	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofileOZpkN8"
+1588892930452	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588892931128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588892931128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588892931128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588892931128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588892933991	Marionette	INFO	Listening on port 50314
+1588892934022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588892938931	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588892943715	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588892948148	Marionette	INFO	Stopped listening on port 50314
+1588892954306	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofile2RROw4"
+1588892954929	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588892955352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588892955352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588892955352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588892955352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588892957657	Marionette	INFO	Listening on port 50632
+1588892957753	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.cdn-hotels.com/uswest2/da/assets/cat/js/63.0.10140/399a02cc-f5daa010-a1a6992e-0f9df215-8dc26fe0-7b8befa9-2e254091-fbece8f7-4e57bb0d-be8b66fc-9c4836e0-2a91d115-9c4fda7d-79c828ba-550e895b-3e161328-b3b8732a-5e603abe-b57e884c-e9be03f1-d8868035-61006acc-7312dc63-1d272e07-644ce464-9294db32-2d89921e-9075118a-51371f45-db3f2f46-8cb8577c-87163ae6-57ddcb1d-f685edb0-60111b6a-e8243ba9-86360c33-1e7bd304-f2bc1b38-332d0743-87527386-50252314-d1e63b26-b26a94f4-4449eca4-5b6281d8-3166a241-eb0ac7b2-a69982ed-c7a793c3-cb762176-0b6861c5-96217799-20a8b93a-98e61ffd-0307e8ac-f189e068-16a3e16a-65511728-a44eb598-0d8da874-b40e3e55-7c56453f-59825db5-a8f21a08-ed04484d-7f9eaf31-cade5cf5-a7fa88f4-6078660c-c3282741-fc8f83e2-c6d5adde-a9cd0f25-a40b51f9-d61f8df6-f675e4ad-cc6e9b6c-1be09add-59ab353f-4a05635e-7b7731a7-84b5e7eb-65e870c8-67f03161-7de2c6aa-cff895b6-0141adcc-98fc828d-30ca233e-3e0a17a0-65033c15-29150afe-1921935e-27958a9f-003cdde0-a0bd6564-ef7dc40f-70ba3f6e-55e88fb3-58312cbf-d704b0bd, line 133: TypeError: Must call load() prior to calling next()
+1588892963537	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588892968732	Marionette	INFO	Stopped listening on port 50632
+1588892975854	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofile5Qk2Dm"
+1588892977044	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588892977645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588892977645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588892977646	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588892977646	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588892980245	Marionette	INFO	Listening on port 50903
+1588892980315	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lookup.hotels.com/resolve/champion/json?query=Las%20Vegas&locale=en_US&boostConfig=config-boost-champion&resolutionConfig=config-resolve-2&jsonpCallback=jQuery11240007454044305736929_1588892983982, line 1: ReferenceError: jQuery11240007454044305736929_1588892983982 is not defined
+1588892996615	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588893000964	Marionette	INFO	Stopped listening on port 50903
+1588893004733	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofileKTncK3"
+1588893005227	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588893005647	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588893005647	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588893005647	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588893005647	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588893007666	Marionette	INFO	Listening on port 51196
+1588893007742	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.cdn-hotels.com/uswest2/da/assets/cat/js/63.0.10140/399a02cc-f5daa010-a1a6992e-0f9df215-8dc26fe0-7b8befa9-2e254091-fbece8f7-4e57bb0d-be8b66fc-9c4836e0-2a91d115-9c4fda7d-79c828ba-550e895b-3e161328-b3b8732a-5e603abe-b57e884c-e9be03f1-d8868035-61006acc-7312dc63-1d272e07-644ce464-9294db32-2d89921e-9075118a-51371f45-db3f2f46-8cb8577c-87163ae6-57ddcb1d-f685edb0-60111b6a-e8243ba9-86360c33-1e7bd304-f2bc1b38-332d0743-87527386-50252314-d1e63b26-b26a94f4-4449eca4-5b6281d8-3166a241-eb0ac7b2-a69982ed-c7a793c3-cb762176-0b6861c5-96217799-20a8b93a-98e61ffd-0307e8ac-f189e068-16a3e16a-65511728-a44eb598-0d8da874-b40e3e55-7c56453f-59825db5-a8f21a08-ed04484d-7f9eaf31-cade5cf5-a7fa88f4-6078660c-c3282741-fc8f83e2-c6d5adde-a9cd0f25-a40b51f9-d61f8df6-f675e4ad-cc6e9b6c-1be09add-59ab353f-4a05635e-7b7731a7-84b5e7eb-65e870c8-67f03161-7de2c6aa-cff895b6-0141adcc-98fc828d-30ca233e-3e0a17a0-65033c15-29150afe-1921935e-27958a9f-003cdde0-a0bd6564-ef7dc40f-70ba3f6e-55e88fb3-58312cbf-d704b0bd, line 133: TypeError: Must call load() prior to calling next()
+1588893014216	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588893021856	Marionette	INFO	Stopped listening on port 51196
+1588894849294	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofilemg7TXs"
+1588894850064	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588894850493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588894850493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588894850493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588894850493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588894852969	Marionette	INFO	Listening on port 57462
+1588894853030	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.cdn-hotels.com/uswest2/da/assets/cat/js/63.0.10140/399a02cc-f5daa010-a1a6992e-0f9df215-8dc26fe0-7b8befa9-2e254091-fbece8f7-4e57bb0d-be8b66fc-9c4836e0-2a91d115-9c4fda7d-79c828ba-550e895b-3e161328-b3b8732a-5e603abe-b57e884c-e9be03f1-d8868035-61006acc-7312dc63-1d272e07-644ce464-9294db32-0c7a33b6-fae36503-51371f45-db3f2f46-8cb8577c-87163ae6-57ddcb1d-f685edb0-60111b6a-e8243ba9-86360c33-1e7bd304-f2bc1b38-332d0743-87527386-50252314-d1e63b26-b26a94f4-4449eca4-5b6281d8-3166a241-eb0ac7b2-a69982ed-c7a793c3-cb762176-0b6861c5-96217799-20a8b93a-98e61ffd-0307e8ac-f189e068-16a3e16a-65511728-a44eb598-0d8da874-b40e3e55-7c56453f-59825db5-a8f21a08-ed04484d-7f9eaf31-cade5cf5-a7fa88f4-6078660c-c3282741-fc8f83e2-c6d5adde-a9cd0f25-a40b51f9-d61f8df6-f675e4ad-cc6e9b6c-1be09add-59ab353f-4a05635e-7b7731a7-84b5e7eb-65e870c8-67f03161-7de2c6aa-cff895b6-0141adcc-98fc828d-30ca233e-3e0a17a0-65033c15-29150afe-1921935e-27958a9f-003cdde0-a0bd6564-ef7dc40f-70ba3f6e-55e88fb3-58312cbf-d704b0bd, line 133: TypeError: Must call load() prior to calling next()
+1588894859034	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588894868820	Marionette	INFO	Stopped listening on port 57462
+1588895167103	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofilezV28Il"
+1588895167679	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588895168092	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588895168092	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588895168092	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588895168092	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588895170182	Marionette	INFO	Listening on port 58944
+1588895170285	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.cdn-hotels.com/uswest2/da/assets/cat/js/63.0.10140/399a02cc-f5daa010-a1a6992e-0f9df215-8dc26fe0-7b8befa9-2e254091-fbece8f7-4e57bb0d-be8b66fc-9c4836e0-2a91d115-9c4fda7d-79c828ba-550e895b-3e161328-b3b8732a-5e603abe-b57e884c-e9be03f1-d8868035-61006acc-7312dc63-1d272e07-644ce464-9294db32-51371f45-be6c4c77-109a7b8a-db3f2f46-8cb8577c-87163ae6-57ddcb1d-f685edb0-60111b6a-e8243ba9-86360c33-1e7bd304-f2bc1b38-332d0743-87527386-50252314-d1e63b26-b26a94f4-4449eca4-5b6281d8-3166a241-eb0ac7b2-a69982ed-c7a793c3-cb762176-0b6861c5-96217799-20a8b93a-98e61ffd-0307e8ac-f189e068-16a3e16a-65511728-a44eb598-0d8da874-b40e3e55-7c56453f-59825db5-a8f21a08-ed04484d-7f9eaf31-cade5cf5-a7fa88f4-6078660c-c3282741-fc8f83e2-c6d5adde-a9cd0f25-a40b51f9-d61f8df6-f675e4ad-cc6e9b6c-1be09add-59ab353f-4a05635e-7b7731a7-84b5e7eb-65e870c8-67f03161-7de2c6aa-cff895b6-0141adcc-98fc828d-30ca233e-3e0a17a0-65033c15-29150afe-1921935e-27958a9f-003cdde0-a0bd6564-ef7dc40f-70ba3f6e-55e88fb3-58312cbf-d704b0bd, line 133: TypeError: Must call load() prior to calling next()
+1588895179544	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588895185051	Marionette	INFO	Stopped listening on port 58944
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1588895214477	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofileXGLOIY"
+1588895215664	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588895216192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588895216192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588895216193	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588895216193	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588895218464	Marionette	INFO	Listening on port 59337
+1588895218578	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/hotels/detector-dom.min.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript error: https://a.cdn-hotels.com/uswest2/da/assets/cat/js/63.0.10140/399a02cc-f5daa010-a1a6992e-0f9df215-8dc26fe0-7b8befa9-2e254091-fbece8f7-4e57bb0d-be8b66fc-9c4836e0-2a91d115-9c4fda7d-79c828ba-550e895b-3e161328-b3b8732a-5e603abe-b57e884c-e9be03f1-d8868035-61006acc-7312dc63-1d272e07-644ce464-9294db32-0c7a33b6-fae36503-51371f45-db3f2f46-8cb8577c-87163ae6-57ddcb1d-f685edb0-60111b6a-e8243ba9-86360c33-1e7bd304-f2bc1b38-332d0743-87527386-50252314-d1e63b26-b26a94f4-4449eca4-5b6281d8-3166a241-eb0ac7b2-a69982ed-c7a793c3-cb762176-0b6861c5-96217799-20a8b93a-98e61ffd-0307e8ac-f189e068-16a3e16a-65511728-a44eb598-0d8da874-b40e3e55-7c56453f-59825db5-a8f21a08-ed04484d-7f9eaf31-cade5cf5-a7fa88f4-6078660c-c3282741-e0cf375c-fc8f83e2-c6d5adde-a9cd0f25-a40b51f9-d61f8df6-f675e4ad-cc6e9b6c-1be09add-59ab353f-4a05635e-7b7731a7-84b5e7eb-65e870c8-67f03161-7de2c6aa-cff895b6-0141adcc-98fc828d-30ca233e-3e0a17a0-65033c15-29150afe-1921935e-27958a9f-003cdde0-a0bd6564-ef7dc40f-70ba3f6e-55e88fb3-58312cbf-d704b0bd, line 133: TypeError: Must call load() prior to calling next()
+JavaScript warning: https://cdn.glassboxcdn.com/hotels/detector-dom.min.js, line 0: Successfully compiled asm.js code (total compilation time 13ms)
+1588895241855	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://cdn.glassboxcdn.com/hotels/detector-dom.min.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+1588895247230	Marionette	INFO	Stopped listening on port 59337
+1588895348771	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofilejhlBcN"
+1588895349400	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588895349812	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588895349812	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588895349812	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588895349812	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588895351918	Marionette	INFO	Listening on port 60092
+1588895352018	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1588895362524	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588895366932	Marionette	INFO	Stopped listening on port 60092
+1588895748234	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofileHbmCuu"
+1588895748904	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588895749349	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588895749349	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588895749350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588895749350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588895751849	Marionette	INFO	Listening on port 61904
+1588895751942	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.cdn-hotels.com/uswest2/da/assets/cat/js/63.0.10140/399a02cc-f5daa010-a1a6992e-0f9df215-8dc26fe0-7b8befa9-2e254091-fbece8f7-4e57bb0d-be8b66fc-9c4836e0-2a91d115-9c4fda7d-79c828ba-550e895b-3e161328-b3b8732a-5e603abe-b57e884c-e9be03f1-d8868035-61006acc-7312dc63-1d272e07-644ce464-9294db32-2d89921e-9075118a-51371f45-db3f2f46-8cb8577c-87163ae6-57ddcb1d-f685edb0-60111b6a-e8243ba9-86360c33-1e7bd304-f2bc1b38-332d0743-87527386-50252314-d1e63b26-b26a94f4-4449eca4-5b6281d8-3166a241-eb0ac7b2-a69982ed-c7a793c3-cb762176-0b6861c5-96217799-20a8b93a-98e61ffd-0307e8ac-f189e068-16a3e16a-65511728-a44eb598-0d8da874-b40e3e55-7c56453f-59825db5-a8f21a08-ed04484d-7f9eaf31-cade5cf5-a7fa88f4-6078660c-c3282741-fc8f83e2-c6d5adde-a9cd0f25-a40b51f9-d61f8df6-f675e4ad-cc6e9b6c-1be09add-59ab353f-4a05635e-7b7731a7-84b5e7eb-65e870c8-67f03161-7de2c6aa-cff895b6-0141adcc-98fc828d-30ca233e-3e0a17a0-65033c15-29150afe-1921935e-27958a9f-003cdde0-a0bd6564-ef7dc40f-70ba3f6e-55e88fb3-58312cbf-d704b0bd, line 133: TypeError: Must call load() prior to calling next()
+1588895758005	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588895768441	Marionette	INFO	Stopped listening on port 61904
+1588896364516	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofileao7G4q"
+1588896365292	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588896365771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588896365771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588896365771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588896365771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588896368183	Marionette	INFO	Listening on port 64606
+1588896368272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.cdn-hotels.com/uswest2/da/assets/cat/js/63.0.10140/399a02cc-f5daa010-a1a6992e-0f9df215-8dc26fe0-7b8befa9-2e254091-fbece8f7-4e57bb0d-be8b66fc-9c4836e0-2a91d115-9c4fda7d-79c828ba-550e895b-3e161328-b3b8732a-5e603abe-b57e884c-e9be03f1-d8868035-61006acc-7312dc63-1d272e07-644ce464-9294db32-2d89921e-9075118a-51371f45-db3f2f46-8cb8577c-87163ae6-57ddcb1d-f685edb0-60111b6a-e8243ba9-86360c33-1e7bd304-f2bc1b38-332d0743-87527386-50252314-d1e63b26-b26a94f4-4449eca4-5b6281d8-3166a241-eb0ac7b2-a69982ed-c7a793c3-cb762176-0b6861c5-96217799-20a8b93a-98e61ffd-0307e8ac-f189e068-16a3e16a-65511728-a44eb598-0d8da874-b40e3e55-7c56453f-59825db5-a8f21a08-ed04484d-7f9eaf31-cade5cf5-a7fa88f4-6078660c-c3282741-fc8f83e2-c6d5adde-a9cd0f25-a40b51f9-d61f8df6-f675e4ad-cc6e9b6c-1be09add-59ab353f-4a05635e-7b7731a7-84b5e7eb-65e870c8-67f03161-7de2c6aa-cff895b6-0141adcc-98fc828d-30ca233e-3e0a17a0-65033c15-29150afe-1921935e-27958a9f-003cdde0-a0bd6564-ef7dc40f-70ba3f6e-55e88fb3-58312cbf-d704b0bd, line 133: TypeError: Must call load() prior to calling next()
+1588896376181	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588896381003	Marionette	INFO	Stopped listening on port 64606
+1588896527926	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofile69spdb"
+1588896528545	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588896528998	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588896528999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588896528999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588896528999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588896531280	Marionette	INFO	Listening on port 65478
+1588896531344	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/hotels/detector-dom.min.js, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: https://cdn.glassboxcdn.com/hotels/detector-dom.min.js, line 0: Successfully compiled asm.js code (total compilation time 15ms)
+1588896539155	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://cdn.glassboxcdn.com/hotels/detector-dom.min.js, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+1588896542771	Marionette	INFO	Stopped listening on port 65478
+1588896604517	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofilemlKscJ"
+1588896605157	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588896605509	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588896605509	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588896605510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588896605510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588896607625	Marionette	INFO	Listening on port 49583
+1588896607734	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.cdn-hotels.com/uswest2/da/assets/cat/js/63.0.10140/399a02cc-f5daa010-a1a6992e-0f9df215-8dc26fe0-7b8befa9-2e254091-fbece8f7-4e57bb0d-be8b66fc-9c4836e0-2a91d115-9c4fda7d-79c828ba-550e895b-3e161328-b3b8732a-5e603abe-b57e884c-e9be03f1-d8868035-61006acc-7312dc63-1d272e07-644ce464-9294db32-0c7a33b6-fae36503-51371f45-db3f2f46-8cb8577c-87163ae6-57ddcb1d-f685edb0-60111b6a-e8243ba9-86360c33-1e7bd304-f2bc1b38-332d0743-87527386-50252314-d1e63b26-b26a94f4-4449eca4-5b6281d8-3166a241-eb0ac7b2-a69982ed-c7a793c3-cb762176-0b6861c5-96217799-20a8b93a-98e61ffd-0307e8ac-f189e068-16a3e16a-65511728-a44eb598-0d8da874-b40e3e55-7c56453f-59825db5-a8f21a08-ed04484d-7f9eaf31-cade5cf5-a7fa88f4-6078660c-c3282741-fc8f83e2-c6d5adde-a9cd0f25-a40b51f9-d61f8df6-f675e4ad-cc6e9b6c-1be09add-59ab353f-4a05635e-7b7731a7-84b5e7eb-65e870c8-67f03161-7de2c6aa-cff895b6-0141adcc-98fc828d-30ca233e-3e0a17a0-65033c15-29150afe-1921935e-27958a9f-003cdde0-a0bd6564-ef7dc40f-70ba3f6e-55e88fb3-58312cbf-d704b0bd, line 133: TypeError: Must call load() prior to calling next()
+1588896621977	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588896980389	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofilegILhRt"
+1588896982075	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588896983058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588896983059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588896983059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588896983059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588896989042	Marionette	INFO	Listening on port 51324
+1588896989108	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/hotels/detector-dom.min.js, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+1588896996582	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://lookup.hotels.com/resolve/champion/json?query=Las%20Vegas&locale=en_US&boostConfig=config-boost-champion&resolutionConfig=config-resolve-2&jsonpCallback=jQuery112407998864574538679_1588896990897, line 1: ReferenceError: jQuery112407998864574538679_1588896990897 is not defined
+1588897010650	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588897015602	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588897021169	Marionette	INFO	Stopped listening on port 51324
+1588897028267	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofileptQ0F7"
+1588897030354	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588897031346	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588897031346	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588897031346	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588897031347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588897037271	Marionette	INFO	Listening on port 51759
+1588897037361	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/hotels/detector-dom.min.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+1588897042948	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588897049260	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588897055493	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588897060381	Marionette	INFO	Stopped listening on port 51759
+1588897073526	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofilew4YNGy"
+1588897075495	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588897076508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588897076508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588897076508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588897076509	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588897081875	Marionette	INFO	Listening on port 52186
+1588897081989	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/hotels/detector-dom.min.js, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: https://cdn.glassboxcdn.com/hotels/detector-dom.min.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+1588897107503	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588897110844	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588897115980	Marionette	INFO	Stopped listening on port 52186
+1588897120761	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofilecwONmA"
+1588897122540	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588897123539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588897123539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588897123540	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588897123540	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588897128740	Marionette	INFO	Listening on port 52596
+1588897128797	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588897143130	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588897148411	Marionette	INFO	Stopped listening on port 52596
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1588897160366	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofileG7K7kA"
+1588897161521	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588897162512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588897162512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588897162513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588897162513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588897168644	Marionette	INFO	Listening on port 52969
+1588897168743	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1588897186149	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588897194830	Marionette	INFO	Stopped listening on port 52969
+1588897494841	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofileyc3LWq"
+1588897495536	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588897495973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588897495973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588897495973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588897495973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588897498550	Marionette	INFO	Listening on port 54556
+1588897498600	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588897506464	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588897513044	Marionette	INFO	Stopped listening on port 54556
+JavaScript error: https://eus.rubiconproject.com/usync.html?&geo=na&co=us, line 12: SecurityError: The operation is insecure.
+1588897570242	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofilesCBMhD"
+1588897570841	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588897571286	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588897571286	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588897571286	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588897571286	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588897573498	Marionette	INFO	Listening on port 55079
+1588897573605	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/hotels/detector-dom.min.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1588897579980	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588897583073	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588897587145	Marionette	INFO	Stopped listening on port 55079
+1588897592143	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofileic1yDV"
+1588897592784	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588897593230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588897593230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588897593231	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588897593231	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588897595340	Marionette	INFO	Listening on port 55331
+1588897595448	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588897600011	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588897603525	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588897607769	Marionette	INFO	Stopped listening on port 55331
+1588897617719	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofileFCAtws"
+1588897618428	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588897618865	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588897618865	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588897618865	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588897618865	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588897621059	Marionette	INFO	Listening on port 55616
+1588897621169	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/hotels/detector-dom.min.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://cdn.glassboxcdn.com/hotels/detector-dom.min.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1588897627462	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588897632389	Marionette	INFO	Stopped listening on port 55616
+1588897637346	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofileiDCEMx"
+1588897637999	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588897638421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588897638421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588897638422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588897638422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588897640966	Marionette	INFO	Listening on port 55849
+1588897641049	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/hotels/detector-dom.min.js, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript error: https://a.cdn-hotels.com/uswest2/da/assets/cat/js/63.0.10140/399a02cc-f5daa010-a1a6992e-0f9df215-8dc26fe0-7b8befa9-2e254091-fbece8f7-4e57bb0d-be8b66fc-9c4836e0-2a91d115-9c4fda7d-79c828ba-550e895b-3e161328-b3b8732a-5e603abe-b57e884c-e9be03f1-d8868035-61006acc-7312dc63-1d272e07-644ce464-9294db32-51371f45-be6c4c77-109a7b8a-db3f2f46-8cb8577c-87163ae6-57ddcb1d-f685edb0-60111b6a-e8243ba9-86360c33-1e7bd304-f2bc1b38-332d0743-87527386-50252314-d1e63b26-b26a94f4-4449eca4-5b6281d8-3166a241-eb0ac7b2-a69982ed-c7a793c3-cb762176-0b6861c5-96217799-20a8b93a-98e61ffd-0307e8ac-f189e068-16a3e16a-65511728-a44eb598-0d8da874-b40e3e55-7c56453f-59825db5-a8f21a08-ed04484d-7f9eaf31-cade5cf5-a7fa88f4-6078660c-c3282741-e0cf375c-fc8f83e2-c6d5adde-a9cd0f25-a40b51f9-d61f8df6-f675e4ad-cc6e9b6c-1be09add-59ab353f-4a05635e-7b7731a7-84b5e7eb-65e870c8-67f03161-7de2c6aa-cff895b6-0141adcc-98fc828d-30ca233e-3e0a17a0-65033c15-29150afe-1921935e-27958a9f-003cdde0-a0bd6564-ef7dc40f-70ba3f6e-55e88fb3-58312cbf-d704b0bd, line 133: TypeError: Must call load() prior to calling next()
+JavaScript warning: https://cdn.glassboxcdn.com/hotels/detector-dom.min.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1588897649336	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588897654683	Marionette	INFO	Stopped listening on port 55849
+1588897659596	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofilet1OFQx"
+1588897660172	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588897660584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588897660584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588897660584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588897660584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588897662785	Marionette	INFO	Listening on port 56127
+1588897662891	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.cdn-hotels.com/uswest2/da/assets/cat/js/63.0.10140/399a02cc-f5daa010-a1a6992e-0f9df215-8dc26fe0-7b8befa9-2e254091-fbece8f7-4e57bb0d-be8b66fc-9c4836e0-2a91d115-9c4fda7d-79c828ba-550e895b-3e161328-b3b8732a-5e603abe-b57e884c-e9be03f1-d8868035-61006acc-7312dc63-1d272e07-644ce464-9294db32-51371f45-be6c4c77-109a7b8a-db3f2f46-8cb8577c-87163ae6-57ddcb1d-f685edb0-60111b6a-e8243ba9-86360c33-1e7bd304-f2bc1b38-332d0743-87527386-50252314-d1e63b26-b26a94f4-4449eca4-5b6281d8-3166a241-eb0ac7b2-a69982ed-c7a793c3-cb762176-0b6861c5-96217799-20a8b93a-98e61ffd-0307e8ac-f189e068-16a3e16a-65511728-a44eb598-0d8da874-b40e3e55-7c56453f-59825db5-a8f21a08-ed04484d-7f9eaf31-cade5cf5-a7fa88f4-6078660c-c3282741-fc8f83e2-c6d5adde-a9cd0f25-a40b51f9-d61f8df6-f675e4ad-cc6e9b6c-1be09add-59ab353f-4a05635e-7b7731a7-84b5e7eb-65e870c8-67f03161-7de2c6aa-cff895b6-0141adcc-98fc828d-30ca233e-3e0a17a0-65033c15-29150afe-1921935e-27958a9f-003cdde0-a0bd6564-ef7dc40f-70ba3f6e-55e88fb3-58312cbf-d704b0bd, line 133: TypeError: Must call load() prior to calling next()
+1588897674631	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: SecurityError: The operation is insecure.
+1588897681454	Marionette	INFO	Stopped listening on port 56127
+1588897895029	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofileFUu7S5"
+1588897895660	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588897896176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588897896176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588897896176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588897896176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588897898357	Marionette	INFO	Listening on port 57252
+1588897898456	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.cdn-hotels.com/uswest2/da/assets/cat/js/63.0.10140/399a02cc-f5daa010-a1a6992e-0f9df215-8dc26fe0-7b8befa9-2e254091-fbece8f7-4e57bb0d-be8b66fc-9c4836e0-2a91d115-9c4fda7d-79c828ba-550e895b-3e161328-b3b8732a-5e603abe-b57e884c-e9be03f1-d8868035-61006acc-7312dc63-1d272e07-644ce464-9294db32-0c7a33b6-fae36503-51371f45-db3f2f46-8cb8577c-87163ae6-57ddcb1d-f685edb0-60111b6a-e8243ba9-86360c33-1e7bd304-f2bc1b38-332d0743-87527386-50252314-d1e63b26-b26a94f4-4449eca4-5b6281d8-3166a241-eb0ac7b2-a69982ed-c7a793c3-cb762176-0b6861c5-96217799-20a8b93a-98e61ffd-0307e8ac-f189e068-16a3e16a-65511728-a44eb598-0d8da874-b40e3e55-7c56453f-59825db5-a8f21a08-ed04484d-7f9eaf31-cade5cf5-a7fa88f4-6078660c-c3282741-fc8f83e2-c6d5adde-a9cd0f25-a40b51f9-d61f8df6-f675e4ad-cc6e9b6c-1be09add-59ab353f-4a05635e-7b7731a7-84b5e7eb-65e870c8-67f03161-7de2c6aa-cff895b6-0141adcc-98fc828d-30ca233e-3e0a17a0-65033c15-29150afe-1921935e-27958a9f-003cdde0-a0bd6564-ef7dc40f-70ba3f6e-55e88fb3-58312cbf-d704b0bd, line 133: TypeError: Must call load() prior to calling next()
+1588897904963	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588897918157	Marionette	INFO	Stopped listening on port 57252
+1588897962010	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofileRErv7M"
+1588897962635	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588897963057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588897963058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588897963058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588897963058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588897965223	Marionette	INFO	Listening on port 57692
+1588897965331	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.cdn-hotels.com/uswest2/da/assets/cat/js/63.0.10140/399a02cc-f5daa010-a1a6992e-0f9df215-8dc26fe0-7b8befa9-2e254091-fbece8f7-4e57bb0d-be8b66fc-9c4836e0-2a91d115-9c4fda7d-79c828ba-550e895b-3e161328-b3b8732a-5e603abe-b57e884c-e9be03f1-d8868035-61006acc-7312dc63-1d272e07-644ce464-9294db32-51371f45-be6c4c77-109a7b8a-db3f2f46-8cb8577c-87163ae6-57ddcb1d-f685edb0-60111b6a-e8243ba9-86360c33-1e7bd304-f2bc1b38-332d0743-87527386-50252314-d1e63b26-b26a94f4-4449eca4-5b6281d8-3166a241-eb0ac7b2-a69982ed-c7a793c3-cb762176-0b6861c5-96217799-20a8b93a-98e61ffd-0307e8ac-f189e068-16a3e16a-65511728-a44eb598-0d8da874-b40e3e55-7c56453f-59825db5-a8f21a08-ed04484d-7f9eaf31-cade5cf5-a7fa88f4-6078660c-c3282741-fc8f83e2-c6d5adde-a9cd0f25-a40b51f9-d61f8df6-f675e4ad-cc6e9b6c-1be09add-59ab353f-4a05635e-7b7731a7-84b5e7eb-65e870c8-67f03161-7de2c6aa-cff895b6-0141adcc-98fc828d-30ca233e-3e0a17a0-65033c15-29150afe-1921935e-27958a9f-003cdde0-a0bd6564-ef7dc40f-70ba3f6e-55e88fb3-58312cbf-d704b0bd, line 133: TypeError: Must call load() prior to calling next()
+1588897971616	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588897975236	Marionette	INFO	Stopped listening on port 57692
+1588898006345	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofilee7RgYP"
+1588898006996	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588898007418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588898007418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588898007418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588898007418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588898009520	Marionette	INFO	Listening on port 58063
+1588898009561	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588898016061	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588898025040	Marionette	INFO	Stopped listening on port 58063
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: SecurityError: The operation is insecure.
+1588898193948	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofilenIx59L"
+1588898194538	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588898194991	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588898194991	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588898194992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588898194992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588898197575	Marionette	INFO	Listening on port 59077
+1588898197625	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/hotels/detector-dom.min.js, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: https://cdn.glassboxcdn.com/hotels/detector-dom.min.js, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+1588898211194	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588898215671	Marionette	INFO	Stopped listening on port 59077
+1588898277753	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofiletc5j13"
+1588898278447	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588898278876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588898278877	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588898278877	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588898278877	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588898281065	Marionette	INFO	Listening on port 59592
+1588898281236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588898285702	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588898288287	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588898292388	Marionette	INFO	Stopped listening on port 59592
+1588898297282	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofilel6a3j4"
+1588898297910	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588898298355	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588898298356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588898298356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588898298356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588898300654	Marionette	INFO	Listening on port 59831
+1588898300721	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588898305651	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588898308245	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588898312428	Marionette	INFO	Stopped listening on port 59831
+1588898319318	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofilekVdONL"
+1588898319948	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588898320379	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588898320379	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588898320379	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588898320379	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588898322621	Marionette	INFO	Listening on port 60085
+1588898322737	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.cdn-hotels.com/uswest2/da/assets/cat/js/63.0.10140/399a02cc-f5daa010-a1a6992e-0f9df215-8dc26fe0-7b8befa9-2e254091-fbece8f7-4e57bb0d-be8b66fc-9c4836e0-2a91d115-9c4fda7d-79c828ba-550e895b-3e161328-b3b8732a-5e603abe-b57e884c-e9be03f1-d8868035-61006acc-7312dc63-1d272e07-644ce464-9294db32-51371f45-be6c4c77-109a7b8a-db3f2f46-8cb8577c-87163ae6-57ddcb1d-f685edb0-60111b6a-e8243ba9-86360c33-1e7bd304-f2bc1b38-332d0743-87527386-50252314-d1e63b26-b26a94f4-4449eca4-5b6281d8-3166a241-eb0ac7b2-a69982ed-c7a793c3-cb762176-0b6861c5-96217799-20a8b93a-98e61ffd-0307e8ac-f189e068-16a3e16a-65511728-a44eb598-0d8da874-b40e3e55-7c56453f-59825db5-a8f21a08-ed04484d-7f9eaf31-cade5cf5-a7fa88f4-6078660c-c3282741-fc8f83e2-c6d5adde-a9cd0f25-a40b51f9-d61f8df6-f675e4ad-cc6e9b6c-1be09add-59ab353f-4a05635e-7b7731a7-84b5e7eb-65e870c8-67f03161-7de2c6aa-cff895b6-0141adcc-98fc828d-30ca233e-3e0a17a0-65033c15-29150afe-1921935e-27958a9f-003cdde0-a0bd6564-ef7dc40f-70ba3f6e-55e88fb3-58312cbf-d704b0bd, line 133: TypeError: Must call load() prior to calling next()
+1588898328434	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588898333593	Marionette	INFO	Stopped listening on port 60085
+1588898338418	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofileiN8Wcj"
+1588898339050	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588898339468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588898339469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588898339469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588898339469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588898341642	Marionette	INFO	Listening on port 60321
+1588898341753	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.cdn-hotels.com/uswest2/da/assets/cat/js/63.0.10140/399a02cc-f5daa010-a1a6992e-0f9df215-8dc26fe0-7b8befa9-2e254091-fbece8f7-4e57bb0d-be8b66fc-9c4836e0-2a91d115-9c4fda7d-79c828ba-550e895b-3e161328-b3b8732a-5e603abe-b57e884c-e9be03f1-d8868035-61006acc-7312dc63-1d272e07-644ce464-9294db32-0c7a33b6-fae36503-51371f45-db3f2f46-8cb8577c-87163ae6-57ddcb1d-f685edb0-60111b6a-e8243ba9-86360c33-1e7bd304-f2bc1b38-332d0743-87527386-50252314-d1e63b26-b26a94f4-4449eca4-5b6281d8-3166a241-eb0ac7b2-a69982ed-c7a793c3-cb762176-0b6861c5-96217799-20a8b93a-98e61ffd-0307e8ac-f189e068-16a3e16a-65511728-a44eb598-0d8da874-b40e3e55-7c56453f-59825db5-a8f21a08-ed04484d-7f9eaf31-cade5cf5-a7fa88f4-6078660c-c3282741-fc8f83e2-c6d5adde-a9cd0f25-a40b51f9-d61f8df6-f675e4ad-cc6e9b6c-1be09add-59ab353f-4a05635e-7b7731a7-84b5e7eb-65e870c8-67f03161-7de2c6aa-cff895b6-0141adcc-98fc828d-30ca233e-3e0a17a0-65033c15-29150afe-1921935e-27958a9f-003cdde0-a0bd6564-ef7dc40f-70ba3f6e-55e88fb3-58312cbf-d704b0bd, line 133: TypeError: Must call load() prior to calling next()
+1588898347724	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1588898352856	Marionette	INFO	Stopped listening on port 60321
+1588898357750	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1w/lc7pwv452zqc9fjb7tplmfrh0000gn/T/rust_mozprofileuoAmtl"
+1588898358363	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588898358773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588898358774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588898358774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588898358774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588898360895	Marionette	INFO	Listening on port 60563
+1588898360937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.cdn-hotels.com/uswest2/da/assets/cat/js/63.0.10140/399a02cc-f5daa010-a1a6992e-0f9df215-8dc26fe0-7b8befa9-2e254091-fbece8f7-4e57bb0d-be8b66fc-9c4836e0-2a91d115-9c4fda7d-79c828ba-550e895b-3e161328-b3b8732a-5e603abe-b57e884c-e9be03f1-d8868035-61006acc-7312dc63-1d272e07-644ce464-9294db32-2d89921e-9075118a-51371f45-db3f2f46-8cb8577c-87163ae6-57ddcb1d-f685edb0-60111b6a-e8243ba9-86360c33-1e7bd304-f2bc1b38-332d0743-87527386-50252314-d1e63b26-b26a94f4-4449eca4-5b6281d8-3166a241-eb0ac7b2-a69982ed-c7a793c3-cb762176-0b6861c5-96217799-20a8b93a-98e61ffd-0307e8ac-f189e068-16a3e16a-65511728-a44eb598-0d8da874-b40e3e55-7c56453f-59825db5-a8f21a08-ed04484d-7f9eaf31-cade5cf5-a7fa88f4-6078660c-c3282741-fc8f83e2-c6d5adde-a9cd0f25-a40b51f9-d61f8df6-f675e4ad-cc6e9b6c-1be09add-59ab353f-4a05635e-7b7731a7-84b5e7eb-65e870c8-67f03161-7de2c6aa-cff895b6-0141adcc-98fc828d-30ca233e-3e0a17a0-65033c15-29150afe-1921935e-27958a9f-003cdde0-a0bd6564-ef7dc40f-70ba3f6e-55e88fb3-58312cbf-d704b0bd, line 133: TypeError: Must call load() prior to calling next()
+1588898371004	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588898378114	Marionette	INFO	Stopped listening on port 60563
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1588903050188	Marionette	INFO	Stopped listening on port 57123
+1588903074832	Marionette	INFO	Stopped listening on port 58844
+1588903092801	Marionette	INFO	Stopped listening on port 50120
